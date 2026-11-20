@@ -23,7 +23,7 @@ El proyecto separa las responsabilidades entre el segmento vuelo (*On-Board Comp
 ![Rendimiento del Enlace QPSK y Constelación](docs/link_performance.png)
 
 - **Izquierda:** Constelación QPSK recibida a $E_b/N_0 = 7\text{ dB}$ bajo efecto de rotación de fase por Doppler residual no compensado.
-- **Derecha:** Curva de tasa de error de bit (**BER**) obtenida sobre las tramas CCSDS frente a la curva teórica $P_b = \frac{1}{2}\operatorname{erfc}\left(\sqrt{E_b/N_0}\right)$.
+- **Derecha:** Curva de tasa de error de bit (**BER**) obtenida sobre las tramas CCSDS frente a la curva teórica $P_b = \frac{1}{2}\text{erfc}\left(\sqrt{E_b/N_0}\right)$.
 
 ---
 
